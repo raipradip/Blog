@@ -1,6 +1,6 @@
-!!IMPORTANT
-install all dependencies first
-npm install
+# !!IMPORTANT<br>
+# install all dependencies first<br>
+### `npm install`
 
 # Getting Started with Create React App
 
